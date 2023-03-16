@@ -1,4 +1,4 @@
-# Kmeans
+# K-means in Java
 K-means algorithm implementation in Java for a University project
 
 Dataset (1200 points):
